@@ -10,6 +10,7 @@ class TestScaffsController < ApplicationController
   # GET /test_scaffs/1
   # GET /test_scaffs/1.json
   def show
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
   end
 
   # GET /test_scaffs/new
